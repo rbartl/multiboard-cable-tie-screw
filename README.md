@@ -16,11 +16,13 @@ die Kabel können nicht mehr raus.
 Mehrere Kabel stapeln sich übereinander im Topf. Deshalb unterscheiden sich die
 Größen vor allem in der **Höhe**, nicht im Durchmesser — genau wie beim Original.
 
+Alle drei brauchen nur **eine** Multiboard-Zelle.
+
 | Größe | Kabel | Posthöhe | Grundplatte | Snaps |
 |---|---|---|---|---|
 | S | 1–2 | 12 mm | 1 Zelle (25 × 25 mm) | 1 |
 | M | ~5 | 22 mm | 1 Zelle (25 × 25 mm) | 1 |
-| L | bis ~10 | 36 mm | 2 Zellen (25 × 50 mm) | 2 |
+| L | bis ~10 | 36 mm | 1 Zelle (25 × 25 mm) | 1 |
 
 Gleich bei allen: Gewinde-Ø 22 mm, Innen-Ø 14,0 mm, nutzbare Kanalbreite 10,7 mm,
 Steigung 3 mm, radiales Spiel Mutter/Gewinde 0,3 mm, Wandstärke unter dem

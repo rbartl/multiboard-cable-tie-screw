@@ -39,7 +39,7 @@ cell_chamfer = (cell - cell / (1 + 2 * cos(45))) / 2; // 7.3223
 // The sizes differ mainly in post height: cables stack up inside the pot.
 // size -> [post height, plate cells in y, nut height]
 spec = size == "S" ? [12, 1, 8]
-     : size == "L" ? [36, 2, 9]
+     : size == "L" ? [36, 1, 9]
      :               [22, 1, 9];
 
 post_h    = spec[0];

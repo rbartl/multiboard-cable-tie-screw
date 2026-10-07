@@ -4,7 +4,9 @@ Kabelhalter zum Einschnappen ins Multiboard-Multihole — funktionale Nachbildun
 [Under-Desk Cable Tie for OpenGrid System](https://makerworld.com/en/models/1908305-under-desk-cable-tie-for-opengrid-system),
 bei der der OpenGrid-Fuß durch einen Multiboard-Snap ersetzt ist.
 
-![Preview](preview.png)
+![S, M und L mit aufgesetzter Rändelmutter](docs/preview.png)
+
+![L mit fünf Kabeln, die mittig durch den Topf laufen](docs/in_use.png)
 
 ## Funktion
 

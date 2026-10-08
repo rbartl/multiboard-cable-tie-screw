@@ -74,8 +74,19 @@ Die Snap-Geometrie (`src/multiboard_snap.scad`, daraus gerendert
 `src/multiboard_snap.stl`) stammt aus
 [MultiConnectOpenSCAD](https://github.com/cschneid/MultiConnectOpenSCAD) von
 Andy Levesque, mit Credit an @David D (Multiconnect) und Jonathan / Keep Making
-(Multiboard). CC BY-NC-SA 4.0 + [Multiboard License](https://www.multiboard.io/license) —
-nicht-kommerziell, Attribution erforderlich.
+(Multiboard).
+
+Das gesamte Projekt steht deshalb unter
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) **und** der
+[Multiboard License](https://multibuild.io/license); es gilt jeweils die strengere
+Regel. Volltext und Attribution in [`LICENSE`](LICENSE). Kurz:
+
+- Für den Eigenbedarf drucken und nutzen: erlaubt.
+- Remixe teilen: erlaubt, unter denselben Bedingungen und mit Namensnennung.
+- Kommerzielle Nutzung, auch der Verkauf von Drucken: **nicht** erlaubt.
+
+Kein offizielles Multiboard-Teil; nicht mit MULTIBOARD LTD verbunden oder von
+ihnen unterstützt.
 
 Hinweis: `multiboard_snap.scad` braucht eine BOSL2-Version von vor 2024-08
 (`spin` als Vektor). Deshalb liegt die daraus gerenderte Geometrie als STL bei;

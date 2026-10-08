@@ -7,7 +7,7 @@
 
   Snap geometry by Andy Levesque (MultiConnectOpenSCAD), credit to @David D
   (Multiconnect) and Jonathan at Keep Making (Multiboard).
-  CC BY-NC-SA 4.0 + Multiboard License (https://www.multiboard.io/license).
+  CC BY-NC-SA 4.0 + Multiboard License (https://multibuild.io/license; see LICENSE).
 */
 
 include <BOSL2/std.scad>

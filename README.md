@@ -8,6 +8,8 @@ bei der der OpenGrid-Fuß durch einen Multiboard-Snap ersetzt ist.
 
 ![L mit fünf Kabeln, die mittig durch den Topf laufen](docs/in_use.png)
 
+![Body und Mutter einzeln: Gewindepost mit den zwei Fenstern, Rändelmutter](docs/parts.png)
+
 ![Gedrucktes Teil mit aufgeschraubter Mutter](docs/printed.png)
 
 ![Unter dem Schreibtisch am Multiboard montiert, mit zwei Kabeln](docs/mounted.png)
